@@ -5,6 +5,12 @@ An executive-level diagnostic utilizing the IBM Telco dataset to uncover high-im
 
 ---
 
+## 📊 Dashboard Preview
+
+![CRPA Dashboard](https://github.com/Bhargavi-Teki/Customer-Retention-Pattern-Assessment/blob/main/Customer_Retention_Pattern_Assessment_Overview.png)
+
+---
+
 ## 🎯 Business Objectives
 * **Diagnose Attrition Drivers** – Pinpointing root causes of departure by correlating exit reasons with customer behavioral patterns.
 * **Quantify Revenue Risk** – Assessing financial exposure by mapping total revenue against high-value demographics and segments.
@@ -114,9 +120,7 @@ Average Tenure (Yrs) := AVERAGE(Table1[Tenure Months]) / 12
 
 ---
 
-## 📊 Dashboard Preview
 
-![CRPA Dashboard](https://github.com/Bhargavi-Teki/Customer-Retention-Pattern-Assessment/blob/main/Customer_Retention_Pattern_Assessment_Overview.png)
 
 
 
