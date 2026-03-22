@@ -117,10 +117,3 @@ Average Tenure (Yrs) := AVERAGE(Table1[Tenure Months]) / 12
 *Managing Power Query ETL to structure multi-dimensional behavioral datasets.
 
 *Translating technical patterns into actionable executive recommendations.
-
----
-
-
-
-
-
